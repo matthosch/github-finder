@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Github User Browser
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live Demo](https://github-finder-pearl-gamma.vercel.app/)
+
+Browse Github users and repos. Built with React, Context, TailwindCSS, and DaisyUI.
 
 ## Available Scripts
 
